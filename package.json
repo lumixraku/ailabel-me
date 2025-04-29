@@ -22,6 +22,7 @@
     "lie": "^3.3.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
+    "path-to-regexp": "^8.2.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
@@ -46,5 +47,6 @@
     "script-ext-html-webpack-plugin": "^2.1.5",
     "svg-sprite-loader": "^6.0.9",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "packageManager": "pnpm@10.9.0+sha512.0486e394640d3c1fb3c9d43d49cf92879ff74f8516959c235308f5a8f62e2e19528a65cdc2a3058f587cde71eba3d5b56327c8c33a97e4c4051ca48a10ca2d5f"
 }
